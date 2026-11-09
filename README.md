@@ -98,3 +98,10 @@ Parameter = {
 2. **Open in Power BI:** Open the `.pbix` file using **Power BI Desktop** (2024 version or later).
 3. **Data Source Settings:** If prompted, re-point the dataset path to the included `Average_Daily_Traffic_Counts` source files.
 4. **Interact:** Click any of the 4 metric parameter tiles in the top grid to slice the visuals dynamically, or use the **Reset** button in the upper right to restore default views.
+
+## Author
+
+* **Satnam Singh**
+* Master of Arts (Economics) Candidate — Massey University
+* **GitHub:** [@Satnam-Singh-Analyst](https://github.com/Satnam-Singh-Analyst)
+* **LinkedIn:** [Satnam Singh](https://linkedin.com/in/satnam-singh-3b124a230)
